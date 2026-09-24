@@ -1,0 +1,37 @@
+{
+  "leh": {
+    "label": "Leh, Ladakh",
+    "lat": 34.1526,
+    "lon": 77.5771,
+    "x_pct": 79.98,
+    "y_pct": 48.02
+  },
+  "paris": {
+    "label": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "x_pct": 12.81,
+    "y_pct": 22.66
+  },
+  "delhi": {
+    "label": "New Delhi",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "x_pct": 79.65,
+    "y_pct": 57.57
+  },
+  "_projection": {
+    "width": 2400,
+    "height": 1517,
+    "lon": [
+      -12,
+      100
+    ],
+    "lat": [
+      4,
+      62
+    ],
+    "x": "x=(lon-(-12))*cos(35deg)*S",
+    "S_px_per_deg": 26.159
+  }
+}

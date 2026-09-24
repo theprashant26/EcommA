@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1517" role="img" aria-label="Routes from Ladakh and Paris to India">
+<path id="route-paris" class="route" fill="none" stroke="var(--route, #D85A30)" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12" d="M307.5,343.8 Q1109.6,248.6 1911.6,873.4"/>
+<path id="route-leh" class="route" fill="none" stroke="var(--route, #D85A30)" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12" d="M1919.5,728.5 Q1915.6,740.9 1911.6,873.4"/>
+<g id="pin-leh" class="pin" transform="translate(1919.5,728.5)"><circle class="pin-pulse" r="26" fill="var(--route, #D85A30)" opacity="0.18"/><circle class="pin-dot" r="9" fill="var(--route, #D85A30)"/></g>
+<g id="pin-paris" class="pin" transform="translate(307.5,343.8)"><circle class="pin-pulse" r="26" fill="var(--route, #D85A30)" opacity="0.18"/><circle class="pin-dot" r="9" fill="var(--route, #D85A30)"/></g>
+<g id="pin-delhi" class="pin" transform="translate(1911.6,873.4)"><circle class="pin-pulse" r="26" fill="var(--route, #D85A30)" opacity="0.18"/><circle class="pin-dot" r="9" fill="var(--route, #D85A30)"/></g>
+</svg>
